@@ -1,0 +1,76 @@
+.profile{
+    color:white;
+}
+.contact{
+    color:white;
+}
+.skills{
+    color:white;
+}
+.resume-container{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    background-color: rgb(1, 35, 58);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.background{
+ background-color: rgb(67, 67, 68);
+ height: 25px;
+ width: 200px;
+ padding: 7px;
+ margin: 5px;
+ border-radius: 5px;
+}
+.job{
+    background-color:rgb(221, 198, 209) ;
+    height: auto;
+    width: auto;
+    margin: 4px;
+    padding: 5px;
+    border-left: 5px solid #000509;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+.job
+{
+    background-color: rgb(221, 198, 209);
+    height:auto;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    margin:5px;
+    border-left: 5px solid #000500;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1)
+}
+.education{
+    background-color: rgb(221, 198, 209);
+    height: auto;
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+    border-left: 5px solid #000500;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1)
+    
+}
+.project{
+    background-color:rgb(221, 198, 209);
+    height: auto;
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+    border-left: 5px solid #000500;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1)
+
+}
+ul{
+    list-style-type: none;
+}
+.photo{
+    border-radius: 60%;
+    height:120px;
+    width:140px;
+}
